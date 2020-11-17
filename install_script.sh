@@ -1,4 +1,8 @@
 apt update
+apt install python3
+pip install ipaddress
+apt install build-essential
+apt install xterm
 cd
 
 echo "Installing Docker Container"
